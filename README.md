@@ -1,5 +1,6 @@
 # Twitter Sentiment Analysis<br /> <br /> 
-#[] (https://www.shareicon.net/download/2016/08/01/639706_circle.ico)
+![](https://www.shareicon.net/download/2016/08/01/639706_circle.ico)
+
 
 **Project made by Team Ctrl Alt Defeat for Codesense 2k18 Hackathon**<br /> <br /> 
 **_Used Jupyter notebook and matplotlib, seaborn, sklearn among other things to successfully finish this project._**<br /><br />  
